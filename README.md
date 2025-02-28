@@ -1,22 +1,29 @@
-Projeto utilizado nos cursos de lógica de programação da Alura.
+Projeto: 
 
-A aplicação cadastra nomes válidos para sorteio do amigo secreto. Desenvolvido na linguagem JavaScript.
+Sorteio de Amigo Secreto
 
-![tela amigo secreto](https://github.com/user-attachments/assets/e088ffdb-7dd4-4f68-8130-205b24d491be)
+Este projeto é utilizado nos cursos de lógica de programação da Alura para ensinar conceitos fundamentais de programação com JavaScript.
 
-Funcionamento:
+Descrição da Aplicação
 
-Ao digitar um conteúdo no campo, ao clicar no botão ADICIONAR, existe uma validação para verificar se o conteúdo digitado está correto, números, simbolos, campo vazio, são bloqueados.
-
-![Captura de tela 2025-02-28 174134](https://github.com/user-attachments/assets/d427f4ab-d517-46d4-84dc-d8dfefe921fd)
-
-![Captura de tela 2025-02-28 174227](https://github.com/user-attachments/assets/d35409de-1d5f-4544-b515-194301fad8e8)
+A aplicação permite cadastrar nomes válidos para um sorteio de amigo secreto, garantindo uma experiência simples e intuitiva para os usuários.
 
 
-Devem ser cadastrados, no mínimo, dois nomes para que a funcionalidade do botão SORTEAR AMIGO seja liberado.
+Funcionamento
 
-![Captura de tela 2025-02-28 174316](https://github.com/user-attachments/assets/824727dd-856f-4d2e-bc52-4a7b53afd2bc)
+O usuário insere um nome no campo de entrada e clica no botão "Adicionar".
+O sistema valida o conteúdo inserido, impedindo cadastros inválidos, como números, símbolos ou campos vazios.
 
-Após cadastro dos nomes válidos, ao clicar no botão SORTEAR AMIGO, o nome sorteado é apresentado na tela.
+![Captura de tela 2025-02-28 174134](https://github.com/user-attachments/assets/0b6e9f8c-5c97-44fc-ae4b-ee5af1aa1f4d)
 
-![Captura de tela 2025-02-28 174334](https://github.com/user-attachments/assets/527e87cb-36d6-4f80-86de-077063dc909d)
+![Captura de tela 2025-02-28 174227](https://github.com/user-attachments/assets/fa4dddd9-5bcd-47c8-95b7-ea0aa62f62be)
+
+Para ativar o botão "Sortear Amigo", é necessário cadastrar pelo menos dois nomes.
+Ao clicar em "Sortear Amigo", um nome aleatório é selecionado e exibido na tela.
+
+![Captura de tela 2025-02-28 174316](https://github.com/user-attachments/assets/b5458d85-bdbc-4516-acac-72f16363f66c)
+
+![Captura de tela 2025-02-28 174334](https://github.com/user-attachments/assets/a3e64468-6a5c-4314-b966-01db8b1d672e)
+
+
+Desenvolvido em JavaScript, este projeto é ideal para praticar validações de entrada, manipulação do DOM e geração de números aleatórios.
