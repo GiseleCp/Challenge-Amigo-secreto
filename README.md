@@ -5,6 +5,7 @@ A aplicação cadastra nomes válidos para sorteio do amigo secreto. Desenvolvid
 ![tela amigo secreto](https://github.com/user-attachments/assets/e088ffdb-7dd4-4f68-8130-205b24d491be)
 
 Funcionamento:
+
 Ao digitar um conteúdo no campo, ao clicar no botão ADICIONAR, existe uma validação para verificar se o conteúdo digitado está correto, números, simbolos, campo vazio, são bloqueados.
 
 ![Captura de tela 2025-02-28 174134](https://github.com/user-attachments/assets/d427f4ab-d517-46d4-84dc-d8dfefe921fd)
